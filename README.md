@@ -13,7 +13,7 @@ The project includes:
 
 ## Problem Statement
 
-Financial institutions generate large amounts of customer and transaction data, making manual analysis difficult. This project helps analyze customer spending patterns, revenue trends, and transaction behavior efficiently using data analytics and visualization.
+The credit card company has transaction and customer data spread across multiple attributes (card category, demographics, spending, acquisition cost) but lacks a consolidated view to identify revenue trends, high-value customer segments, and cost-heavy acquisition channels. This project builds an interactive Power BI dashboard analyzing revenue, interest earned, transaction volume, and customer acquisition cost across card categories, demographics, and quarters to support data-driven decisions on customer targeting and cost optimization.
 
 ---
 
